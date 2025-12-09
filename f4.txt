@@ -4,4 +4,7 @@ Welcome
 =======
 Bye
 >>>>>>> Stashed changes
+
 String name="Azhar"
+String clg="Ranchi"
+
