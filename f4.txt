@@ -4,3 +4,4 @@ Welcome
 =======
 Bye
 >>>>>>> Stashed changes
+String clg="Ranchi"
