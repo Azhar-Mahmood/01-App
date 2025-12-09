@@ -7,4 +7,5 @@ Bye
 
 String name="Azhar"
 String clg="Ranchi"
+int b=200
 
